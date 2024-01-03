@@ -36,7 +36,6 @@ Run the application:
 bash
 Copy code
 npm start
-Access the application at http://localhost:3000.
 
 Technologies Used:
 Frontend: HTML, CSS, JavaScript, React
