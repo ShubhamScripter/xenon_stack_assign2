@@ -13,15 +13,6 @@ Getting Started:
 To set up the project locally, follow these steps:
 
 Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/UserAuthPlus.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd UserAuthPlus
 Install dependencies:
 
 bash
